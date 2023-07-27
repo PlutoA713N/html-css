@@ -13,7 +13,10 @@ body {
   border-style:ridge;
   margin: 80px 150px;
 }
-
+.label {
+  padding: 20px;
+  margin: 5px;
+}
 .button {
   color:  green;
 }
